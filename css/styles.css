@@ -1,0 +1,15 @@
+@media screen and (min-width: 786px){
+
+}
+
+.heading {
+    text-align: left;
+}
+
+.name, .aboutme {
+    padding-left: 120px;
+}
+
+blockquote {
+    padding-top: 20px;
+}

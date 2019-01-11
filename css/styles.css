@@ -1,4 +1,4 @@
-@media screen and (min-width: 786px){
+@media screen and (min-width: 480px){
 
 }
 
@@ -7,9 +7,13 @@
 }
 
 .name, .aboutme {
-    padding-left: 120px;
+    padding-left: 20px;
 }
 
 blockquote {
     padding-top: 20px;
+}
+
+.container {
+    padding-top: 30px;
 }

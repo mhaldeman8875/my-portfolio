@@ -12,6 +12,7 @@ _{This is a webpage that I made for code review and it utilizes the skills I lea
 
 * _Clone repository to your computer_
 * _open .html file in your browser_
+* _GitHub Pages link: https://mhaldeman8875.github.io/my-portfolio/_
 
 
 ## Known Bugs

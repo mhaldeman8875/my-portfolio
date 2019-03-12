@@ -1,3 +1,9 @@
+body {
+    background-image: url("https://i.imgur.com/kzxICSh.jpg");
+    background-size: 600px;
+    background-repeat: no-repeat;
+}
+
 .heading {
     text-align: left;
 }

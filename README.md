@@ -16,7 +16,7 @@ _{This is a webpage that I made for code review and it utilizes the skills I lea
 
 ## Known Bugs
 
-_No know bugs as of now_
+_In "update" branch, I am attempting to rewrite the code so that there are multiple 'sections' on the single site, but different links navigate to them. My goal is to design it such that the headers of the different sections will be animated and those animations will not execute until they are scrolled to or navigated to._
 
 ## Support and contact details
 
